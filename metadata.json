@@ -1,0 +1,11 @@
+{
+    "name" : "Keyind",
+    "description" : "PAU e AGUA",
+    "shell-version" : [
+        "43",
+        "44"
+    ],
+    "url" : "",
+    "uuid" : "keyind@vitogg-github",
+    "version" : 1.0
+}
